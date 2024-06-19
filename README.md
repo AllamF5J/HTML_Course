@@ -46,20 +46,15 @@ Elzero Web School is a premier online platform offering a wide range of web deve
 - **Weeks Completed**: [03 of 03]  
   ![100%](https://progress-bar.dev/100/?title=Done)
 
+  `Watched` - [Plan For Three Weeks](https://elzero.org/study/html-2021-study-plan/)
+
 #### Videos Watched
 - **Total Videos**: [37 of 37] - Duration: 4 Hours, 12 Minutes, 53 Seconds  
   ![100%](https://progress-bar.dev/100/?title=Watched)  
-  Watch all the videos on the [YouTube playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji).
-
-#### Assignments Solved
-- **Total Assignments**: [33 of 33] - Topics: 9  
-  ![100%](https://progress-bar.dev/100/?title=Solved)  
-  Check out the assignments [here](https://elzero.org/category/assignments/html-assignments/).
-  
----<img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
 
 <details>
-  <summary><strong>Lessons</strong></summary>
+  <br>
+    <summary><mark><span>👉</span> Click Here To Watch Videos In </mark><strong>YouTube</strong></summary>
 
   1. `Watched` - [Introduction And What I Need To Learn?](https://www.youtube.com/watch?v=6QAELgirvjs&t=6s)
   2. `Watched` - [Elements And Browser](https://www.youtube.com/watch?v=7LxA9qXUY5k)
@@ -101,11 +96,17 @@ Elzero Web School is a premier online platform offering a wide range of web deve
 
 </details>
 
+#### Assignments Solved
+- **Total Assignments**: [33 of 33] - Topics: 9  
+  ![100%](https://progress-bar.dev/100/?title=Solved)  
+  Check Out The Assignments [Here 🤏](https://elzero.org/category/assignments/html-assignments/).
+  
 <img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
 
 <details>
-  <summary><strong>Courses & Articles</strong></summary>
-
+  <summary><span>👉</span> <strong>Courses & Articles</strong></summary>
+  <br>
+  
   1. [Learn HTML](https://web.dev/learn/html/)
   2. [Learn Forms](https://web.dev/learn/forms/)
   3. [Best Practices](https://github.com/hail2u/html-best-practices)
@@ -123,6 +124,64 @@ Elzero Web School is a premier online platform offering a wide range of web deve
 
 <img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
 
+<table border="0" cellpadding="0" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Status</th>
+      <th>Assignments</th>
+      <th>Solutions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="9"><code>Solved</code></td>
+      <td><a href="https://elzero.org/html-assignments-lesson-from-1-to-5/">Assignments From 01 To 05</a></td>
+      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/1%20-%20Elements%20And%20Comments%2001%20~%2005">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/html-assignments-lesson-from-6-to-10/">Assignments From 06 To 10</a></td>
+      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/2%20-%20Heading%20And%20Attributes%2006%20~%2010">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/html-assignments-lesson-from-11-to-14/">Assignments From 11 To 14</a></td>
+      <td><a href="">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/html-assignments-lesson-from-15-to-18/">Assignments From 15 To 18</a></td>
+      <td><a href="">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/html-assignments-lesson-from-19-to-23/">Assignments From 19 To 23</a></td>
+      <td><a href="">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/html-assignments-lesson-from-24-to-27/">Assignments From 24 To 27</a></td>
+      <td><a href="">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/html-assignments-lesson-from-28-to-30/">Assignments From 28 To 30</a></td>
+      <td><a href="">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/html-assignments-lesson-from-31-to-34/">Assignments From 31 To 34</a></td>
+      <td><a href="">Code</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://elzero.org/html-assignments-lesson-from-35-to-37/">Assignments From 35 To 37</a></td>
+      <td><a href="">Code</a></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="3" style="text-align: center;">
+        <a href="https://progress-bar.dev/100/?title=Done">
+          <img src="https://progress-bar.dev/100/?title=Done" alt="100%">
+        </a>
+      </td>
+    </tr>
+  </tfoot>
+</table>
 
+<img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
 
 Feel free to explore the repository, follow along with the course material, and practice with the provided assignments. Happy learning!
