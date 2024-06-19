@@ -6,7 +6,7 @@ Welcome to the HTML Basics repository! This repository serves as a comprehensive
 
 This repository is designed to provide you with a solid foundation in HTML, covering everything from basic tags to more advanced concepts. Whether you're a beginner just starting out or looking to refresh your knowledge, you'll find valuable resources and examples here to help you understand and master HTML.
 
-![Elzero Web School](https://user-images.githubusercontent.com/90455303/176652557-13edc1b1-b3ed-46d8-94a8-3880aa41f88c.png)
+![HTML](https://user-images.githubusercontent.com/90455303/176652557-13edc1b1-b3ed-46d8-94a8-3880aa41f88c.png)
 
 ### What is HTML?
 
@@ -19,7 +19,7 @@ HTML (HyperText Markup Language) is the core language of the World Wide Web, use
 - **Forms**: HTML provides a robust framework for creating and handling web forms, allowing for user input and interaction.
 - **Cross-Platform**: HTML code runs consistently across all modern web browsers and devices, ensuring a seamless user experience.
 
----
+<img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
 
 
 ### Course Reference
@@ -34,8 +34,11 @@ Elzero Web School is a premier online platform offering a wide range of web deve
 
 - Visit the [official website](https://elzero.org) for more courses and tutorials.
 - Check out the [YouTube channel](https://www.youtube.com/@ElzeroWebSchool) for more video content.
+- Check out the [GitHub account](https://github.com/ElzeroWebSchool) for more data and Codes.
+  <h5>OR</h5>
+- You can learn [HTML](https://www.youtube.com/watch?v=cvNTgKw8VlY) from [Abdelrahman Gamal Channel](https://www.youtube.com/@AbdelrahmanGamal)
 
----
+<img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
 
 ### Course Progress
 
@@ -53,12 +56,10 @@ Elzero Web School is a premier online platform offering a wide range of web deve
   ![100%](https://progress-bar.dev/100/?title=Solved)  
   Check out the assignments [here](https://elzero.org/category/assignments/html-assignments/).
   
----
-
-## Lessons
+---<img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
 
 <details>
-  <summary>Lessons</summary>
+  <summary><strong>Lessons</strong></summary>
 
   1. `Watched` - [Introduction And What I Need To Learn?](https://www.youtube.com/watch?v=6QAELgirvjs&t=6s)
   2. `Watched` - [Elements And Browser](https://www.youtube.com/watch?v=7LxA9qXUY5k)
@@ -100,6 +101,28 @@ Elzero Web School is a premier online platform offering a wide range of web deve
 
 </details>
 
----
+<img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
+
+<details>
+  <summary><strong>Courses & Articles</strong></summary>
+
+  1. [Learn HTML](https://web.dev/learn/html/)
+  2. [Learn Forms](https://web.dev/learn/forms/)
+  3. [Best Practices](https://github.com/hail2u/html-best-practices)
+  4. [Interview Questions](https://www.interviewbit.com/html-interview-questions/)
+  5. [HTML Practice Test for Certification, Exams & Interviews](https://www.udemy.com/course/html-practice-test-for-certification-exams-interviews/?couponCode=OF53124)
+  6. [Quirks Mode](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)
+  7. [Appendix A. Accepted file types and formats](https://www.mpi.nl/corpus/html/lamus2/apa.html)
+  8. [HTML Symbols](https://www.w3schools.com/html/html_symbols.asp)
+  9. [Learn Accessibility](https://web.dev/learn/accessibility)
+  10. [Semantic HTML5 Elements Explained](https://www.freecodecamp.org/news/semantic-html5-elements/#:~:text=Semantic%20HTML%20elements%20are%20those,content%20that%20is%20inside%20them)
+  11. [HTML Living Standard](https://html.spec.whatwg.org/multipage/semantics.html#pragma-directives) "Last Updated 17 June 2024"
+  12. [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+
+</details>
+
+<img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
+
+
 
 Feel free to explore the repository, follow along with the course material, and practice with the provided assignments. Happy learning!
