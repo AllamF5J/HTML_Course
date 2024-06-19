@@ -54,7 +54,7 @@ Elzero Web School is a premier online platform offering a wide range of web deve
 
 <details>
   <br>
-    <summary><mark><span>👉</span>Click Here To Watch Videos In </mark><strong>YouTube</strong></summary>
+    <summary><mark><span>👉</span> Click Here To Watch Videos In </mark><strong>YouTube</strong></summary>
 
   1. `Watched` - [Introduction And What I Need To Learn?](https://www.youtube.com/watch?v=6QAELgirvjs&t=6s)
   2. `Watched` - [Elements And Browser](https://www.youtube.com/watch?v=7LxA9qXUY5k)
@@ -104,7 +104,7 @@ Elzero Web School is a premier online platform offering a wide range of web deve
 <img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
 
 <details>
-  <summary><strong>Courses & Articles</strong></summary>
+  <summary><span>👉</span> <strong>Courses & Articles</strong></summary>
   <br>
   
   1. [Learn HTML](https://web.dev/learn/html/)
