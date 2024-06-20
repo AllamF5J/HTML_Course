@@ -6,6 +6,11 @@ Welcome to the HTML Basics repository! This repository serves as a comprehensive
 
 This repository is designed to provide you with a solid foundation in HTML, covering everything from basic tags to more advanced concepts. Whether you're a beginner just starting out or looking to refresh your knowledge, you'll find valuable resources and examples here to help you understand and master HTML.
 
+<p align="center">
+    <img src="https://img.shields.io/badge/Completion-20%25-blue" alt="Completion">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=AllamF5J/HTML_Course" alt="Visitors"/>
+</p>
+
 ![HTML](https://user-images.githubusercontent.com/90455303/176652557-13edc1b1-b3ed-46d8-94a8-3880aa41f88c.png)
 
 ### What is HTML?
@@ -183,5 +188,5 @@ Elzero Web School is a premier online platform offering a wide range of web deve
 </table>
 
 <img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
-
+  
 Feel free to explore the repository, follow along with the course material, and practice with the provided assignments. Happy learning!
