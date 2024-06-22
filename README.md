@@ -108,23 +108,21 @@ Elzero Web School is a premier online platform offering a wide range of web deve
   
 <img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
 
-<details>
-  <summary><span>👉</span> <strong>Courses & Articles</strong></summary>
-  <br>
-  
-  1. [Learn HTML](https://web.dev/learn/html/)
-  2. [Learn Forms](https://web.dev/learn/forms/)
-  3. [Best Practices](https://github.com/hail2u/html-best-practices)
-  4. [Interview Questions](https://www.interviewbit.com/html-interview-questions/)
-  5. [HTML Practice Test for Certification, Exams & Interviews](https://www.udemy.com/course/html-practice-test-for-certification-exams-interviews/?couponCode=OF53124)
-  6. [Quirks Mode](https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode)
-  7. [Appendix A. Accepted file types and formats](https://www.mpi.nl/corpus/html/lamus2/apa.html)
-  8. [HTML Symbols](https://www.w3schools.com/html/html_symbols.asp)
-  9. [Learn Accessibility](https://web.dev/learn/accessibility)
-  10. [Semantic HTML5 Elements Explained](https://www.freecodecamp.org/news/semantic-html5-elements/#:~:text=Semantic%20HTML%20elements%20are%20those,content%20that%20is%20inside%20them)
-  11. [HTML Living Standard](https://html.spec.whatwg.org/multipage/semantics.html#pragma-directives) "Last Updated 17 June 2024"
-  12. [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
-
+<summary><span>👉</span> <strong>Courses & Articles</strong></summary>
+  <ol>
+    <li><a href="https://web.dev/learn/html/">Learn HTML</a></li>
+    <li><a href="https://web.dev/learn/forms/">Learn Forms</a></li>
+    <li><a href="https://github.com/hail2u/html-best-practices">Best Practices</a></li>
+    <li><a href="https://www.interviewbit.com/html-interview-questions/">Interview Questions</a></li>
+    <li><a href="https://www.udemy.com/course/html-practice-test-for-certification-exams-interviews/?couponCode=OF53124">HTML Practice Test for Certification, Exams & Interviews</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Quirks_Mode_and_Standards_Mode">Quirks Mode</a></li>
+    <li><a href="https://www.mpi.nl/corpus/html/lamus2/apa.html">Appendix A. Accepted file types and formats</a></li>
+    <li><a href="https://www.w3schools.com/html/html_symbols.asp">HTML Symbols</a></li>
+    <li><a href="https://web.dev/learn/accessibility">Learn Accessibility</a></li>
+    <li><a href="https://www.freecodecamp.org/news/semantic-html5-elements/#:~:text=Semantic%20HTML%20elements%20are%20those,content%20that%20is%20inside%20them">Semantic HTML5 Elements Explained</a></li>
+    <li><a href="https://html.spec.whatwg.org/multipage/semantics.html#pragma-directives">HTML Living Standard</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA">ARIA</a></li>
+  </ol>
 </details>
 
 <img src="https://github.com/AllamF5J/AllamF5J/blob/main/images/neon.gif">
@@ -149,31 +147,31 @@ Elzero Web School is a premier online platform offering a wide range of web deve
     </tr>
     <tr>
       <td><a href="https://elzero.org/html-assignments-lesson-from-11-to-14/">Assignments From 11 To 14</a></td>
-      <td><a href="">Code</a></td>
+      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/3%20-%20Link%2C%20Image%2C%20List%2011%20~%2014">Code</a></td>
     </tr>
     <tr>
       <td><a href="https://elzero.org/html-assignments-lesson-from-15-to-18/">Assignments From 15 To 18</a></td>
-      <td><a href="">Code</a></td>
+      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/4%20-%20Table%2C%20Div%2015%20~%2018">Code</a></td>
     </tr>
     <tr>
       <td><a href="https://elzero.org/html-assignments-lesson-from-19-to-23/">Assignments From 19 To 23</a></td>
-      <td><a href="">Code</a></td>
+      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/5%20-%20Audio%2C%20Video%2019%20~%2023">Code</a></td>
     </tr>
     <tr>
       <td><a href="https://elzero.org/html-assignments-lesson-from-24-to-27/">Assignments From 24 To 27</a></td>
-      <td><a href="">Code</a></td>
+      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/6%20-%20Form%20Part%20One%2024%20~%2027">Code</a></td>
     </tr>
     <tr>
       <td><a href="https://elzero.org/html-assignments-lesson-from-28-to-30/">Assignments From 28 To 30</a></td>
-      <td><a href="">Code</a></td>
+      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/7%20-%20Form%20Part%20Two%2028%20~%2030">Code</a></td>
     </tr>
     <tr>
       <td><a href="https://elzero.org/html-assignments-lesson-from-31-to-34/">Assignments From 31 To 34</a></td>
-      <td><a href="">Code</a></td>
+      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/8%20-%20Form%20Part%20Three%2031%20~%2034">Code</a></td>
     </tr>
     <tr>
       <td><a href="https://elzero.org/html-assignments-lesson-from-35-to-37/">Assignments From 35 To 37</a></td>
-      <td><a href="">Code</a></td>
+      <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/9%20-%20iFrame%2C%20ARIA%2035%20~%2037">Code</a></td>
     </tr>
   </tbody>
   <tfoot>
