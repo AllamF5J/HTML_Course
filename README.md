@@ -137,6 +137,12 @@ Elzero Web School is a premier online platform offering a wide range of web deve
   </thead>
   <tbody>
     <tr>
+      <td colspan="3">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/AllamF5J/HTML_Course/tree/main/0%20-%20Lessons">All Lessons</a></td>
+    </tr>
+    <tr>
       <td rowspan="9"><code>Solved</code></td>
       <td><a href="https://elzero.org/html-assignments-lesson-from-1-to-5/">Assignments From 01 To 05</a></td>
       <td><a href="https://github.com/AllamF5J/HTML_Course/tree/main/1%20-%20Elements%20And%20Comments%2001%20~%2005">Code</a></td>
@@ -177,6 +183,8 @@ Elzero Web School is a premier online platform offering a wide range of web deve
   <tfoot>
     <tr>
       <td colspan="3" style="text-align: center;">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://progress-bar.dev/100/?title=Done">
           <img src="https://progress-bar.dev/100/?title=Done" alt="100%">
         </a>
